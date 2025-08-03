@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Big Data Processing using Apache Spark
 
 ## Description
